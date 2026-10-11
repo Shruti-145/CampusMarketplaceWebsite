@@ -1,0 +1,10 @@
+{
+  "description": "Connect with fellow students to buy, sell, rent, or exchange pre-owned items on campus, promoting affordability and sustainability.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
